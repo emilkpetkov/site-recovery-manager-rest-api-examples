@@ -12,4 +12,4 @@ Senior Member of Technical Staff at VMware, Inc.
 Staff at VMware, Inc
 
 **Emil Petkov**  
-Manager R&D at VMware, Inc
+Manager R&D at Broadcom, Inc
